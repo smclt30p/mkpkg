@@ -1,0 +1,11 @@
+This is Gala's mkpkg
+
+It makes folders based on Java's package system.
+
+Usage:
+
+mkpkg com.github.package.another.and.another
+
+It will create the folder structure as specified.
+
+Dependencies: JDK 1.5+

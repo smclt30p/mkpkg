@@ -1,0 +1,6 @@
+To build and install run:
+
+sh build.sh
+sudo install.sh
+
+It installs by default into /usr/bin and /usr/lib
